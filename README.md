@@ -1,2 +1,2 @@
 # port-scanner
-TCP and UDP port scanner
+Python TCP and UDP port scanner 
